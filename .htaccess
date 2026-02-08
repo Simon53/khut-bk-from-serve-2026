@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Prevent direct access to /public in browser (optional but good)
+    RewriteCond %{THE_REQUEST} /public/ [NC]
+    RewriteRule ^(.*?)public/(.*)$ /$1$2 [L,R=301,NC]
+
+    # Rewrite all other requests silently to /public
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L]
+</IfModule>

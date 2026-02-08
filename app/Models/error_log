@@ -1,0 +1,80 @@
+[29-Jan-2026 09:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/DryWash.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/DryWash.php on line 7
+[29-Jan-2026 09:50:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/MainMenu.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/MainMenu.php on line 4
+[29-Jan-2026 09:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/SubMenu.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/SubMenu.php on line 6
+[29-Jan-2026 09:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/Iron.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/Iron.php on line 7
+[29-Jan-2026 09:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/Order.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/Order.php on line 6
+[29-Jan-2026 09:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/ProductStatus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/ProductStatus.php on line 7
+[29-Jan-2026 09:52:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/ProductIron.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/ProductIron.php on line 7
+[29-Jan-2026 09:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/SiteMenu.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/SiteMenu.php on line 4
+[29-Jan-2026 09:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/Slider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/Slider.php on line 7
+[29-Jan-2026 09:54:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/VisitorTable.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/VisitorTable.php on line 6
+[29-Jan-2026 09:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/Status.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/Status.php on line 7
+[29-Jan-2026 09:55:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/KhutStory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/KhutStory.php on line 8
+[29-Jan-2026 09:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/ProductThumbnail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/ProductThumbnail.php on line 7
+[29-Jan-2026 09:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/GalleryTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/GalleryTable.php on line 7
+[29-Jan-2026 09:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/ProductColor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/ProductColor.php on line 7
+[29-Jan-2026 09:57:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/SitePage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/SitePage.php on line 7
+[29-Jan-2026 09:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/khutshop/public_html/app/Models/LoginAdmin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/LoginAdmin.php on line 7
+[29-Jan-2026 09:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/ProductBodySize.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/ProductBodySize.php on line 7
+[29-Jan-2026 09:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/CategoryBanner.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/CategoryBanner.php on line 5
+[29-Jan-2026 09:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/khutshop/public_html/app/Models/Color.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/public_html/app/Models/Color.php on line 6

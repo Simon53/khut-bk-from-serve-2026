@@ -1,0 +1,12 @@
+[05-Jan-2026 13:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php on line 7
+[05-Jan-2026 13:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php on line 7
+[05-Jan-2026 13:10:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/khutshop/bd-admin.khut.shop/bootstrap/app.php on line 7

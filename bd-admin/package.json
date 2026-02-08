@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.20",
+        "axios": "^1.7.4",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "postcss": "^8.4.47",
+        "tailwindcss": "^3.4.13",
+        "vite": "^6.0.11"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^44.3.0",
+        "@ckeditor/ckeditor5-font": "^46.0.2",
+        "@ckeditor/ckeditor5-image": "^46.0.2",
+        "@ckeditor/ckeditor5-table": "^46.0.2"
+    }
+}
